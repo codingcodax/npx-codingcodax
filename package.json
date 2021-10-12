@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/a12989x/codax#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.0.0",
     "eslint-config-google": "^0.14.0",
