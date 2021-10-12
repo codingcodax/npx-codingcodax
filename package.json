@@ -4,7 +4,7 @@
   "description": "Personal business card for Alexis Guzman Guzman",
   "main": "src/index.ts",
   "bin": {
-    "codax": "./card.js"
+    "codax": "./index.js"
   },
   "files": [
     "lib"
