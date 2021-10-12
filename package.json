@@ -1,0 +1,33 @@
+{
+  "name": "codax",
+  "version": "0.1.0",
+  "description": "Personal business card for Alexis Guzman Guzman",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a12989x/codax.git"
+  },
+  "keywords": [
+    "npm card",
+    "npx card",
+    "business card"
+  ],
+  "author": "Alexis Guzman <codaxtech@gmail.com> (https://codaxx.ml/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a12989x/codax/issues"
+  },
+  "homepage": "https://github.com/a12989x/codax#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
