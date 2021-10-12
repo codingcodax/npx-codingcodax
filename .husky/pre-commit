@@ -1,0 +1,8 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo '🏗️👷 Checking commit, styling, testing and building your project before committing
+'
+
+# If everything passes... Now we can commit
+echo '✅✅✅✅ You win this time... I am trying to committ this now. 🤯 ✅✅✅✅'
