@@ -1,6 +1,6 @@
 {
   "name": "codax",
-  "version": "0.1.3-0",
+  "version": "0.1.4-0",
   "description": "Personal business card for Alexis Guzman Guzman",
   "main": "src/index.ts",
   "bin": {
