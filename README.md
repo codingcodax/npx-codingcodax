@@ -11,6 +11,8 @@
 npx codax
 ```
 
+<img src='./thumb.png' alt='terminal running npx codax' />
+
 ## License
 
 npx card is licensed under the terms of [MIT](https://choosealicense.com/licenses/mit/)
