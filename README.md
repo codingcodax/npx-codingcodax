@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>npx card</h1>
+  <h1>npx codax</h1>
   Built with ☕️ and ❤️ by <a href='https://github.com/a12989x'>Codax</a>
   <br />
   This is my npx card. An easy way to connect with me directly from your console or terminal 👨‍💻.
