@@ -1,34 +1,34 @@
 {
-  "name": "codax",
+  "name": "codingcodax",
   "version": "0.1.5",
-  "description": "Personal business card for Alexis Guzman Guzman",
+  "description": "Personal business card for Alexis Guzman",
   "main": "src/index.ts",
   "bin": {
-    "codax": "lib/index.js"
+    "codingcodax": "lib/index.js"
   },
   "files": [
     "lib"
   ],
   "scripts": {
-    "start": "npx ts-node src/index.ts",
-    "lint": "npx eslint 'src/**/*.ts'",
+    "start": "ts-node src/index.ts",
+    "lint": "eslint 'src/**/*.ts'",
     "compile": "tsc -p . "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a12989x/codax.git"
+    "url": "git+https://github.com/codingcodax/npx-codingcodax.git"
   },
   "keywords": [
     "npm card",
     "npx card",
     "business card"
   ],
-  "author": "Alexis Guzman <codaxtech@gmail.com> (https://codaxx.ml/)",
+  "author": "Alexis Guzman <codingcodax@gmail.com> (https://codingcodax.dev/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/a12989x/codax/issues"
+    "url": "https://github.com/codingcodax/npx-codingcodax/issues"
   },
-  "homepage": "https://github.com/a12989x/codax#readme",
+  "homepage": "https://github.com/codingcodax/npx-codingcodax#readme",
   "devDependencies": {
     "@types/clear": "^0.1.2",
     "@types/glob": "^7.1.4",
