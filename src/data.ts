@@ -1,17 +1,16 @@
 import chalk from 'chalk';
 
 const data = {
-  name: chalk.bold.magenta('              Alexis Guzman Ines'),
-  // handle: chalk.white('@__codax__'),
+  name: chalk.bold.magenta('              Alexis Guzman'),
   work: `${chalk.white('              Frontend Web Developer')}`,
   twitter:
-    chalk.gray('https://twitter.com/') + chalk.magentaBright('__codax__'),
-  github: chalk.gray('https://github.com/') + chalk.magentaBright('a12989x'),
+    chalk.gray('https://twitter.com/') + chalk.magentaBright('codingcodax'),
+  github:
+    chalk.gray('https://github.com/') + chalk.magentaBright('codingcodax'),
   linkedin:
-    chalk.gray('https://linkedin.com/in/') + chalk.magentaBright('codax'),
-  web:
-    chalk.gray('https://') + chalk.magentaBright('codaxx.ml') + chalk.gray('/'),
-  npx: chalk.gray('npx') + ' ' + chalk.magentaBright('codax'),
+    chalk.gray('https://linkedin.com/in/') + chalk.magentaBright('codingcodax'),
+  web: chalk.gray('https://') + chalk.magentaBright('codingcodax.dev'),
+  npx: chalk.gray('npx') + ' ' + chalk.magentaBright('codingcodax'),
 
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
