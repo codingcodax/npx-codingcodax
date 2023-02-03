@@ -10,7 +10,7 @@
     "prettier"
   ],
   "plugins": [
-    "import", // configure import plugin manually
+    "import",
     "prettier",
     "@typescript-eslint"
   ],
