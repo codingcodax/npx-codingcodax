@@ -12,7 +12,7 @@
   "scripts": {
     "start": "ts-node src/index.ts",
     "lint": "eslint 'src/**/*.ts'",
-    "compile": "tsc -p . "
+    "compile": "tsc -p . --outDir lib"
   },
   "repository": {
     "type": "git",
